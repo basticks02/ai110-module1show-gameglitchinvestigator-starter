@@ -31,7 +31,8 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
       
-https://github.com/user-attachments/assets/93fb2b6d-a171-49cb-92ac-45daffed664c
+> https://github.com/user-attachments/assets/7aaf44d8-491c-4d3f-920b-7cfaaccec2fc
+
 
 
 
