@@ -18,6 +18,24 @@ def check_guess(guess, secret):
 
     outcome examples: "Win", "Too High", "Too Low"
     """
+   
+    if guess == secret:
+        return "Win", "🎉 Correct!"
+
+    try:
+        if guess > secret:
+            return "Too High", "📈 Go LOWER!"
+        else:
+            return "Too Low", "📉 Go HIGHER!"
+
+    except TypeError:
+        g = str(guess)
+        if g == secret:
+            return "Win", "🎉 Correct!"
+        if g > secret:
+            return "Too High", "📈 Go LOWER!"
+        return "Too Low", "📉 Go HIGHER!"
+        
     raise NotImplementedError("Refactor this function from app.py into logic_utils.py")
 
 
