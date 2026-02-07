@@ -30,8 +30,10 @@ It wrote the code, ran away, and now the game is unplayable.
 - [X] Explain what fixes you applied.
 
 ## 📸 Demo
+      
+https://github.com/user-attachments/assets/93fb2b6d-a171-49cb-92ac-45daffed664c
 
-- [X] [https://github.com/user-attachments/assets/a8c1983a-b43c-43fb-8390-90f3c996a671]
+
 
 
 ## 🚀 Stretch Features
